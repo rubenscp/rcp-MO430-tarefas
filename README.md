@@ -1,11 +1,8 @@
 # Institute of Computing - Unicamp
 ## Graduate Program in Computer Science
 
-## **Tarefas da disciplina MO430**
-
-MO911 - Introdução às Metodologias para Elaboração de Projeto de Pesquisa
-(MO903 + MO430)
-
+## **Tarefas da disciplina MO911 - Introdução às Metodologias para Elaboração de Projeto de Pesquisa
+(MO903 + MO430)**
 
 ### **Author**:
 - Rubens de Castro Pereira
@@ -14,3 +11,10 @@ MO911 - Introdução às Metodologias para Elaboração de Projeto de Pesquisa
 - Sandro Rigo 
 
 #### **Dec-2022**
+
+## Tarefa 2 - 
+
+
+## Tarefa 3 - 
+
+
