@@ -12,9 +12,9 @@
 
 #### **Dec-2022**
 
-## Tarefa 2 - 
+## Tarefa 2 - Visualização de Dados
 
 
-## Tarefa 3 - 
 
+## Tarefa 3 - Testes Estatísticos
 
