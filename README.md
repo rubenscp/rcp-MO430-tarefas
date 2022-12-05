@@ -1,5 +1,5 @@
 # Institute of Computing - Unicamp
-# Graduate Program in Computer Science
+## Graduate Program in Computer Science
 
 ## **Tarefas da disciplina MO430**
 
