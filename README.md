@@ -1,6 +1,11 @@
-# **Tarefas da disciplina MO430**
+# Institute of Computing - Unicamp 
+## Graduate Program in Computer Science
 
-This is the final project for the MO-412 course at Computing Institute - Unicamp.
+## **Tarefas da disciplina MO430**
+
+MO911 - Introdução às Metodologias para Elaboração de Projeto de Pesquisa
+(MO903 + MO430)
+
 
 ### **Author**:
 - Rubens de Castro Pereira
