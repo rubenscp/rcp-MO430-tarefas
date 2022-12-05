@@ -3,10 +3,10 @@
 
 ## **Tarefas da disciplina MO911 - Introdução às Metodologias para Elaboração de Projeto de Pesquisa (MO903 + MO430)**
 
-### **Student**:
+#### **Student**:
 - Rubens de Castro Pereira
 
-### **Professor**:
+#### **Professor**:
 - Sandro Rigo 
 
 #### **Dec-2022**
