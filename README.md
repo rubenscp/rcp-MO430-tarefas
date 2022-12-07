@@ -13,7 +13,9 @@
 
 ## Tarefa 2 - Visualização de Dados
 
-
+- Notebook Jupyter: https://github.com/rubenscp/rcp-MO430-tarefas/blob/main/Tarefa%2002/Tarefa_02.ipynb
 
 ## Tarefa 3 - Testes Estatísticos
+
+- Notebook Jupyter: https://github.com/rubenscp/rcp-MO430-tarefas/blob/main/Tarefa%2003/Tarefa_03.ipynb
 
